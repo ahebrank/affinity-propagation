@@ -1,6 +1,6 @@
 {
     "name": "@ahebrank/affinity-propagation",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Affinity propagation clustering (Frey & Dueck, Science 2007)",
     "repository": {
         "type": "git",
